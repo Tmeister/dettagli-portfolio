@@ -1,0 +1,48 @@
+== Description ==
+
+Show your work in a beautiful way with this section, Detaggli Portfolio can be use for show a photographer's work, a designer's work or just to show personal images using great transitions and effects driven by CSS3 and jQuery, also, all happens in just one site thanks to ajax. 
+
+Show details for the selected project and the thumbnails preview for all the project with a filter powered by Isotope.
+
+In the details the section shows the title, excerpt client and project details with a navigation Next - Back Buttons.
+In the previews you can filter the projects by category and see a cool thumbnail preview.
+
+The Dettagli Portfolio has more than 20 options to play with.
+
+
+Some of the great options are:
+
+* Fully Resizable
+* All colors are configurable
+* iPhone/iPad & Android support
+* IE9+, FireFox, Chrome, Safari Support
+* Transitions driven by CSS3 and jQuery 
+* And many more...
+
+[Follow me at Twitter](http://twitter.com/tmeister "Tmeister")  for news of next versions and new releases.
+
+Also you can see my other sections
+
+* [Latest Blog Entries](http://www.pagelines.com/store/sections/latest-blog-entries/ "Latest Blog Entries")
+* [Kerburner Slider](http://www.pagelines.com/store/sections/kenburner-slider/ "Kerburner Slider")
+* [Parallax Slider](http://www.pagelines.com/store/sections/parallax-slider/ "Parallax Slider")
+* [Social Surf Menu](http://www.pagelines.com/store/sections/social-surf-menu/ "Social Surf Menu")
+* [Infinite Carousel](http://www.pagelines.com/store/sections/infinite-carousel/ "Infinite Carousel")
+* [Always on Top Menu](http://www.pagelines.com/store/sections/always-on-top-menu/ "Always on Top Menu")
+
+== Features ==
+
+* Fully Resizable
+* All colors are configurable
+* iPhone/iPad & Android support
+* IE9+, FireFox, Chrome, Safari Support
+* Transitions driven by CSS3 and jQuery 
+* And many more...
+
+
+
+
+== Changelog ==
+
+= 1.0 = ( JUL 20, 2012 )
+* Public Release
