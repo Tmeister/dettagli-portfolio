@@ -7,7 +7,7 @@ Version: 1.0
 Description: Show your work in a beautiful way with this section, Detaggli Portfolio can be use for show a photographer's work, a designer's work or just to show personal images using great transitions and effects driven by CSS3 and jQuery, also, all happens in just one site thanks to ajax. The Dettagli Portfolio has more than 20 options to play with.
 Class Name: TmDettagliPortfolio
 Demo: http://pagelines.tmeister.net/dettagli/
-External: http://pagelines.tmeister.net/dettagli-portfolio
+External: http://tmeister.net/themes-and-sections/dettagli-portfolio/
 Cloning: false
 Workswith: main, content, templates, header
 */
