@@ -3,7 +3,7 @@
 Section: Dettagli Portfolio
 Author: Enrique Chávez
 Author URI: http://tmeister.net
-Version: 1.0
+Version: 1.1
 Description: Show your work in a beautiful way with this section, Detaggli Portfolio can be use for show a photographer's work, a designer's work or just to show personal images using great transitions and effects driven by CSS3 and jQuery, also, all happens in just one site thanks to ajax. The Dettagli Portfolio has more than 20 options to play with.
 Class Name: TmDettagliPortfolio
 Demo: http://pagelines.tmeister.net/dettagli/
@@ -405,7 +405,7 @@ class TmDettagliPortfolio extends PageLinesSection
 				'shortexp'		=> __('Default value is 12', $this->domain),
 				'exp'			=> __('The amount of post to show.', $this->domain),
 				'count_start'	=> 4, 
- 				'count_number'	=> 40,
+ 				'count_number'	=> 50,
 			),
 			'tm_di' => array(
 				'title'			=> 'Top Bar Color',

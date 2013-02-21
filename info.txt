@@ -21,15 +21,6 @@ Some of the great options are:
 
 [Follow me at Twitter](http://twitter.com/tmeister "Tmeister")  for news of next versions and new releases.
 
-Also you can see my other sections
-
-* [Latest Blog Entries](http://www.pagelines.com/store/sections/latest-blog-entries/ "Latest Blog Entries")
-* [Kerburner Slider](http://www.pagelines.com/store/sections/kenburner-slider/ "Kerburner Slider")
-* [Parallax Slider](http://www.pagelines.com/store/sections/parallax-slider/ "Parallax Slider")
-* [Social Surf Menu](http://www.pagelines.com/store/sections/social-surf-menu/ "Social Surf Menu")
-* [Infinite Carousel](http://www.pagelines.com/store/sections/infinite-carousel/ "Infinite Carousel")
-* [Always on Top Menu](http://www.pagelines.com/store/sections/always-on-top-menu/ "Always on Top Menu")
-
 == Features ==
 
 * Fully Resizable
@@ -40,9 +31,11 @@ Also you can see my other sections
 * And many more...
 
 
-
-
 == Changelog ==
 
-= 1.0 = ( JUL 20, 2012 )
+= 1.1 =
+* Added up to 50 post to show.
+
+
+= 1.0 =
 * Public Release
